@@ -1,0 +1,10 @@
+.footer-page{
+border: 2px skyblue solid;
+background: rgb(175, 215, 255);
+
+}
+.footer-page h6{
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

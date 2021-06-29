@@ -1,0 +1,14 @@
+.quantity-picker .btn{
+  border-radius: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.quantity-picker{
+  display: flex;
+  justify-content: space-around;
+}
+.quantity-picker section{
+  margin-left: -101px;
+  margin-right: -101px;
+}
