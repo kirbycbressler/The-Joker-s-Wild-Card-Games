@@ -8,3 +8,9 @@ background: rgb(175, 215, 255);
   font-size: 14px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.card-header{
+  font-size: 30px;
+  color: purple;
+  background-color: gold;
+
+}

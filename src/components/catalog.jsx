@@ -80,4 +80,5 @@ class Catalog extends Component {
     // create solutions array, travel main array,
   }
 }
+
 export default Catalog

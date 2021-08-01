@@ -1,1 +1,17 @@
 /* asdfsda */
+
+.capture-form{
+  border: 2px black solid;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.my-control{
+  margin: 10px;
+}
+.my-control label{
+  padding: 5px;
+  text-decoration: underline;
+  font-size: 15px;
+}

@@ -61,22 +61,6 @@ class Admin extends Component {
             />
           </div>
         </div>
-
-        <label> Title </label>
-        <input
-          type='text'
-          value={this.state.title}
-          onChange={this.handleInputChange}
-        />
-        <br />
-
-        <label> Price $ </label>
-        <input
-          type='text'
-          value={this.state.price}
-          onChange={this.handleInputChange}
-        />
-        <br />
         <button onClick={this.handleSave} className='btn btn-dark'>
           Save Product
         </button>

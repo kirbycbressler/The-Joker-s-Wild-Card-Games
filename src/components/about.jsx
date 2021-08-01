@@ -6,6 +6,7 @@ class Home extends Component {
     return (
       <div className='home-page'>
         <h1>Welcome to my store</h1>
+        <p>Our store carries the game you need. I promise</p>
       </div>
     )
   }

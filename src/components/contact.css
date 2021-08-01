@@ -1,0 +1,9 @@
+/*  */
+
+.contact-page{
+  border: 2px skyblue solid;
+  background: rgb(175, 215, 255);
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
